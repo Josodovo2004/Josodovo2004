@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jose Aguilar or @Josodovo2004
+- 👋 Hi, I’m Jose Aguilar
 - 👀 I’m interested in backend development with python
 - 🌱 I’m currently learning SQL
 - 💞️ Intrested in interships to colaborate, learn and improve my habilities
