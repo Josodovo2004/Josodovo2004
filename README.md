@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jose Aguilar
-- 👀 I’m interested in backend development with python
+- 👀 I’m interested in development with python
 - 🌱 I’m currently learning SQL
 - 💞️ Intrested in interships to colaborate, learn and improve my habilities
 - 📫 You can contact me via my email <joseaguilarsalazar2004@gmail.com>
