@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jose Aguilar
 - 👀 I’m interested in development with python
-- 🌱 I’m currently learning SQL
+- 🌱 I’m currently learning hot to use connection between tha database and the API or program.
 - 💞️ Intrested in interships to colaborate, learn and improve my habilities
 - 📫 You can contact me via my email <joseaguilarsalazar2004@gmail.com>
 
