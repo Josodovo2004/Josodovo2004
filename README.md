@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jose Aguilar
 - 👀 I’m interested in projects that will help me to learn new things.
 - 🌱 I’m currently learning backend in a depper level to be a more complete backend developer-
-- 💞️ Intrested in jobs to colaborate, learn and improve my habilities.
+- 💞️ Intrested in jobs to colaborate, learn and improve my skills.
 - 📫 You can contact me via my email <joseaguilarsalazar2004@gmail.com>
 
 <!---
